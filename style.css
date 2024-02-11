@@ -1,0 +1,12 @@
+.logo {
+    width: 128px;
+    height: 128px;
+    float: left;
+    margin-right: 40px;
+}
+
+.name {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 48px;
+    padding: 20px;
+}
